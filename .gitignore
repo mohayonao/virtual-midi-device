@@ -3,5 +3,6 @@
 npm-debug.log
 node_modules/
 coverage/
+components/
 !/src/**
 !/test/**
