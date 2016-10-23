@@ -37,6 +37,7 @@
   "files": [
     "package.json",
     "README.md",
+    "index.js",
     "components"
   ],
   "homepage": "https://github.com/mohayonao/virtual-midi-device/",
