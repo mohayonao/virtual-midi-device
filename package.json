@@ -1,7 +1,7 @@
 {
   "name": "@mohayonao/virtual-midi-device",
   "description": "Utils for Virtual MIDI Device",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Nao Yonamine <mohayonao@gmail.com>",
   "bugs": {
     "url": "https://github.com/mohayonao/virtual-midi-device/issues"
