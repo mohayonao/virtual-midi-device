@@ -53,7 +53,7 @@
   },
   "scripts": {
     "build": "babel src --out-dir .",
-    "clean": "rm -rf coverage .nyc_output npm-debug.log",
+    "clean": "rm -rf components coverage .nyc_output npm-debug.log",
     "cover": "BABEL_ENV=coverage nyc --reporter text --reporter html npm test",
     "lint": "eslint src test",
     "postversion": "git push && git push --tags && npm run clean",
