@@ -1,1 +1,3 @@
-module.exports = {};
+module.exports = {
+  LEDColorDefs: require("./components/LEDColorDefs").default,
+};
