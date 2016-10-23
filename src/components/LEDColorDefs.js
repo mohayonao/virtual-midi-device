@@ -17,9 +17,9 @@ export default class LEDColorDefs extends Component {
     });
   }
 
-  // shouldComponentUpdate() {
-  //   return false;
-  // }
+  shouldComponentUpdate() {
+    return false;
+  }
 
   render() {
     const elems = this._colors.map(([ color1, color2 ], i) => {
