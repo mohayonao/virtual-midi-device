@@ -34,6 +34,11 @@
   "engines": {
     "node": ">= 6.0.0"
   },
+  "files": [
+    "package.json",
+    "README.md",
+    "components"
+  ],
   "homepage": "https://github.com/mohayonao/virtual-midi-device/",
   "keywords": [],
   "license": "MIT",
